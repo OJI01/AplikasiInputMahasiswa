@@ -1,0 +1,11 @@
+C:\PEMROGLANJUT\AplikasiInputMahasiswa\Solution1\AplikasiInputMahasiswa2\bin\Debug\AplikasiInputMahasiswa2.exe.config
+C:\PEMROGLANJUT\AplikasiInputMahasiswa\Solution1\AplikasiInputMahasiswa2\bin\Debug\AplikasiInputMahasiswa2.exe
+C:\PEMROGLANJUT\AplikasiInputMahasiswa\Solution1\AplikasiInputMahasiswa2\bin\Debug\AplikasiInputMahasiswa2.pdb
+C:\PEMROGLANJUT\AplikasiInputMahasiswa\Solution1\AplikasiInputMahasiswa2\obj\Debug\AplikasiInputMahasiswa2.csproj.AssemblyReference.cache
+C:\PEMROGLANJUT\AplikasiInputMahasiswa\Solution1\AplikasiInputMahasiswa2\obj\Debug\AplikasiInputMahasiswa2.csproj.SuggestedBindingRedirects.cache
+C:\PEMROGLANJUT\AplikasiInputMahasiswa\Solution1\AplikasiInputMahasiswa2\obj\Debug\AplikasiInputMahasiswa2.Form1.resources
+C:\PEMROGLANJUT\AplikasiInputMahasiswa\Solution1\AplikasiInputMahasiswa2\obj\Debug\AplikasiInputMahasiswa2.Properties.Resources.resources
+C:\PEMROGLANJUT\AplikasiInputMahasiswa\Solution1\AplikasiInputMahasiswa2\obj\Debug\AplikasiInputMahasiswa2.csproj.GenerateResource.cache
+C:\PEMROGLANJUT\AplikasiInputMahasiswa\Solution1\AplikasiInputMahasiswa2\obj\Debug\AplikasiInputMahasiswa2.csproj.CoreCompileInputs.cache
+C:\PEMROGLANJUT\AplikasiInputMahasiswa\Solution1\AplikasiInputMahasiswa2\obj\Debug\AplikasiInputMahasiswa2.exe
+C:\PEMROGLANJUT\AplikasiInputMahasiswa\Solution1\AplikasiInputMahasiswa2\obj\Debug\AplikasiInputMahasiswa2.pdb

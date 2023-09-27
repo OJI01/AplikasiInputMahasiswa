@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplikasiInputMahasiswa", "AplikasiInputMahasiswa\AplikasiInputMahasiswa.csproj", "{2B4A12E4-B244-46E0-A360-C0B2AC2856A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplikasiInputMahasiswa2", "AplikasiInputMahasiswa2\AplikasiInputMahasiswa2.csproj", "{7807525A-719A-442F-8139-87632584710C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B4A12E4-B244-46E0-A360-C0B2AC2856A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B4A12E4-B244-46E0-A360-C0B2AC2856A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B4A12E4-B244-46E0-A360-C0B2AC2856A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B4A12E4-B244-46E0-A360-C0B2AC2856A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7807525A-719A-442F-8139-87632584710C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7807525A-719A-442F-8139-87632584710C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7807525A-719A-442F-8139-87632584710C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7807525A-719A-442F-8139-87632584710C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4161BE54-E94F-4FC7-958E-FC406407F0AA}
+	EndGlobalSection
+EndGlobal
